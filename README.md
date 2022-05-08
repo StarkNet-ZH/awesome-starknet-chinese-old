@@ -136,6 +136,7 @@
 - [starknet-btc-lightclient](https://github.com/samlaf/starknet-btc-lightclient) - 比特币轻节点客户端
 - 用 Cairo 部署[现金流应用 SuperFluid](https://github.com/ayushm2003/basic-superfluid)
 - StarkNet 运行[以太坊开发环境 Hardhat 范例](https://github.com/Shard-Labs/starknet-hardhat-example)
+- [全节点安装指南](https://twitter.com/StarkNet_ZH/status/1522111642498048000)
 
 
 ## 社区讨论
