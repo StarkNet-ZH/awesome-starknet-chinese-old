@@ -128,7 +128,7 @@
 - 用 Cairo [部署 ERC-721 合约](https://github.com/scaffold-eth/scaffold-eth/tree/starknet-nft)
 - [Rust 部署  Cairo VM](https://github.com/lambdaclass/giza)
 - [链上存取控制合约](https://github.com/419Labs/access-controller-contracts) - 卡槽模式，用以链上注册 | by [@alpharoad_fi](https://twitter.com/alpharoad_fi)
-- [tiny-dnn-on-starknet]([guiltygyoza/tiny-dnn-on-starknet (github.com)](https://github.com/guiltygyoza/tiny-dnn-on-starknet)) - 神经网络
+- [tiny-dnn-on-starknet](https://github.com/guiltygyoza/tiny-dnn-on-starknet) - 神经网络
 - [Basic Solver](https://github.com/zoeAD/basic-solver) - DEX 聚合交易解码器
 - [用 Winterell 部署 Cairo VM](https://github.com/maxgillett/giza)
 - [BLS 椭圆曲线](https://github.com/0xNonCents/multi-precision_cairo) | [BLS12-381](https://github.com/0xNonCents/cairo-bls12-381)
