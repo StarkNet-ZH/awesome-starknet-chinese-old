@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="starknet logo" src="./assets/starknet.png" width="200" >
-  <h1 align="center">Awesome StarkNet</h1>
+  <h1 align="center">Awesome StarkNet 中文</h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
       <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
@@ -43,24 +43,24 @@
 ## 生态工具
 
 - OpenZeppelin 合约标准：
-  [入门指南](https://blog.openzeppelin.com/getting-started-with-openzeppelin-contracts-for-cairo)
-  [OpenZeppelin Cairo 合约库](https://github.com/OpenZeppelin/cairo-contracts)
-  [Cairo 合约文档](https://github.com/OpenZeppelin/cairo-contracts/blob/main/docs)
-  [Cairo 扩展功能](https://github.com/OpenZeppelin/cairo-contracts/blob/main/docs/Extensibility.md)
-  [帐户抽象](https://github.com/OpenZeppelin/cairo-contracts/discussions/41)
-  [Nile](https://github.com/OpenZeppelin/nile) - CLI 工具 
+  - [入门指南](https://blog.openzeppelin.com/getting-started-with-openzeppelin-contracts-for-cairo)
+  - [OpenZeppelin Cairo 合约库](https://github.com/OpenZeppelin/cairo-contracts)
+  - [Cairo 合约文档](https://github.com/OpenZeppelin/cairo-contracts/blob/main/docs)
+  - [Cairo 扩展功能](https://github.com/OpenZeppelin/cairo-contracts/blob/main/docs/Extensibility.md)
+  - [帐户抽象](https://github.com/OpenZeppelin/cairo-contracts/discussions/41)
+  - [Nile](https://github.com/OpenZeppelin/nile) - CLI 工具 
 - [Cairo 合约向导](https://wizard.openzeppelin.com/cairo) - 交互式合约生成器
 - [Warp](https://github.com/NethermindEth/warp) - Solidity -> Cairo 转译器
 - [Amarna](https://github.com/crytic/amarna) - Trail of Bits 推出的[静态安全分析工具](https://blog.trailofbits.com/2022/04/20/amarna-static-analysis-for-cairo-programs)，用于识别错误代码和安全隐患
 - [starknet](https://github.com/software-mansion/starknet.py) - StarkNet Python SDK
-* [starknet-hardhat-plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - Hardhat Starknet 工具
-* [starknet-devnet](https://github.com/Shard-Labs/starknet-devnet) - Starknet 本地测试网
-* [cairo-jupyter](https://github.com/ankitchiplunkar/cairo-jupyter) - Cairo 合约语言 Jupyter 内核
-* [Starkops](https://github.com/0xs34n/starkops) - TypeScript 语言 StarkNet 工具链命令行
-* [starknet-web3-rpc-adapter](https://github.com/software-mansion-labs/starknet-web3-rpc-adapter) - 向 StarkNet 传输信息的转接器应用
-* [cairo-glyph](https://github.com/sambarnes/cairo-glyph) - Cairo 管理器
-* [starknet-boilerplate](https://github.com/threepwave/starknet-boilerplate) - 使用 starknetjs 和 nile 部署 starknet/cairo 项目
-* [pytest-cairo](https://github.com/TimNooren/pytest-cairo) - cairo-lang 和 starknet pytest 支持
+- [starknet-hardhat-plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin) - Hardhat Starknet 工具
+- [starknet-devnet](https://github.com/Shard-Labs/starknet-devnet) - Starknet 本地测试网
+- [cairo-jupyter](https://github.com/ankitchiplunkar/cairo-jupyter) - Cairo 合约语言 Jupyter 内核
+- [Starkops](https://github.com/0xs34n/starkops) - TypeScript 语言 StarkNet 工具链命令行
+- [starknet-web3-rpc-adapter](https://github.com/software-mansion-labs/starknet-web3-rpc-adapter) - 向 StarkNet 传输信息的转接器应用
+- [cairo-glyph](https://github.com/sambarnes/cairo-glyph) - Cairo 管理器
+- [starknet-boilerplate](https://github.com/threepwave/starknet-boilerplate) - 使用 starknetjs 和 nile 部署 starknet/cairo 项目
+- [pytest-cairo](https://github.com/TimNooren/pytest-cairo) - cairo-lang 和 starknet pytest 支持
 - [Protostar](https://github.com/software-mansion/protostar) - 发布智能合约开发管理工具
 - [Nethermind 全节点客户端](https://github.com/NethermindEth/juno)
 - [Pathfinder 全节点](https://github.com/eqlabs/pathfinder)
@@ -81,19 +81,19 @@
 
 - [StarkWare](https://github.com/starkware-libs)
 - [Cairo Language](https://github.com/starkware-libs/cairo-lang)
-* [starkex-contracts](https://github.com/starkware-libs/starkex-contracts)
-* [veedo](https://github.com/starkware-libs/veedo) - Verifiable Delay Function
-* [starkex-resources](https://github.com/starkware-libs/starkex-resources)
-* [starkgate-frontend](https://github.com/starkware-libs/starkgate-frontend) - StarkGate 前端
-* [stark-perpetual](https://github.com/starkware-libs/stark-perpetual) - 永续合约
-* [starkex-for-spot-trading](https://github.com/starkware-libs/starkex-for-spot-trading) - 现货交易
-* [starkex-js](https://github.com/starkware-libs/starkex-js)
-* [starknet-specs](https://github.com/starkware-libs/starknet-specs) - 标准
-* [starknet-addresses](https://github.com/starkware-libs/starknet-addresses) - 地址
-* [starknet-docs](https://github.com/starkware-libs/starknet-docs)
-* [starknet-snap](https://github.com/starkware-libs/starknet-snap)
-* [cairo-playground](https://github.com/starkware-libs/cairo-playground)
-* [starkware-crypto-utils](https://github.com/starkware-libs/starkware-crypto-utils)
+- [starkex-contracts](https://github.com/starkware-libs/starkex-contracts)
+- [veedo](https://github.com/starkware-libs/veedo) - Verifiable Delay Function
+- [starkex-resources](https://github.com/starkware-libs/starkex-resources)
+- [starkgate-frontend](https://github.com/starkware-libs/starkgate-frontend) - StarkGate 前端
+- [stark-perpetual](https://github.com/starkware-libs/stark-perpetual) - 永续合约
+- [starkex-for-spot-trading](https://github.com/starkware-libs/starkex-for-spot-trading) - 现货交易
+- [starkex-js](https://github.com/starkware-libs/starkex-js)
+- [starknet-specs](https://github.com/starkware-libs/starknet-specs) - 标准
+- [starknet-addresses](https://github.com/starkware-libs/starknet-addresses) - 地址
+- [starknet-docs](https://github.com/starkware-libs/starknet-docs)
+- [starknet-snap](https://github.com/starkware-libs/starknet-snap)
+- [cairo-playground](https://github.com/starkware-libs/cairo-playground)
+- [starkware-crypto-utils](https://github.com/starkware-libs/starkware-crypto-utils)
 
 
 ## 学习资源
